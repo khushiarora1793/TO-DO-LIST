@@ -24,7 +24,7 @@ To install the Todo List app, use git:
 
 ```bash
 git clone git@github.com:khushiarora1793/TO-DO-LIST.git
-cd 
+cd TO-DO-LIST
 
 ```
     
