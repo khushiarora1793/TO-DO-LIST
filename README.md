@@ -38,5 +38,5 @@ Check out the live demo of the application at [Click Here]() to see it in action
 
 ## Authors
 
-- [@Anand](https://github.com/khushiarora1793)
+- [@Khushi](https://github.com/khushiarora1793)
  
