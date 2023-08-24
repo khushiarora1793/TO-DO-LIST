@@ -23,7 +23,7 @@ This project helped me to understand the practical use cases of JavaScript and b
 To install the Todo List app, use git:
 
 ```bash
-git 
+git clone git@github.com:khushiarora1793/TO-DO-LIST.git
 cd 
 
 ```
